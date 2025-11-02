@@ -13,3 +13,10 @@ I'm aware I don't need to post journals for this project but I keep a physical j
 Today I started the blinky build guide on blueprint to try out electrical engineering for the first time. The guide is great, it's very detailed and walks me through everything. But the list of components I need to access on EASYEDA is wrong and I can't access one as I don't know it's code. I'll have to wait untill they update it to continue. ![screenshot_2025-10-30_at_9.47.32___pm](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--61372cb4163d04e0e8df04c5bf7e1c36a6651717/screenshot_2025-10-30_at_9.47.32___pm.png)
   
 
+## 11/2/2025 - Finished!   
+
+I finally finished this project and it has taught me a lot. The routing of the pcb took my a while but is now something I'll look forward to in my future projects.
+
+Thankyou hack club! ![Screenshot 2025-11-02 7.47.56 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--0f44d428a2b5e3997c06618e54804f900658616c/Screenshot%202025-11-02%207.47.56%20AM.png)
+  
+
